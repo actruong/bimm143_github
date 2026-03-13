@@ -5,6 +5,8 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Di
 
 * Introductory classes
 
+Class 04 - [R Fundamentals](BIMM143Class04/Class04.pdf)
+
 Class 05 - [Data Visualization with ggplot](LabClass05/Class05.pdf)
 
 Class 06 - [R Functions](Class06/class06.pdf) 
