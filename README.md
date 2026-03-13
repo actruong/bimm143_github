@@ -17,13 +17,13 @@ Class 08 - [Breast Cancer Mini Project](Class08MiniProject/08BreastCancer.pdf)
 
 Class 09 - [Candy Mini Project](LabClass09/Untitled.pdf) 
 
-Class 10 - [Structural Bioinformatics I](Lab10StructuralBioInfo/LabClass10.pdf) 
+Class 10 - [Structural Bioinformatics I](Lab10:StructuralBioInfo/LabClass10.pdf) 
 
-Class 11 - [Structural Bioinformatics II](Lab11StructuralBioinformatics2/Lab11.pdf)
+Class 11 - [Structural Bioinformatics II](Lab11:StructuralBioinformatics2/Lab11.pdf)
 
 Class 12 - [Lab Session](Class012/Lab12.pdf) 
 
-Class 13 - [DE Seq](Class13(DE-SEQ-LAB)/Class13.pdf) 
+Class 13 - [DE Seq](Class13:(DE-SEQ-LAB)/Class13.pdf) 
 
 Class 14 - [RNA-Seq Mini Project](Class14RnaSeqMiniProject/RnaSeq.pdf) 
 
